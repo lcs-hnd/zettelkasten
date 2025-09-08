@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "blueprint/tabula rasa.md",
+                "file": "basin/Scientific Notation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "tabula rasa"
+              "title": "Scientific Notation"
+            }
+          },
+          {
+            "id": "ecf60d59a700208a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "canvas/sic parvis magna.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "sic parvis magna"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "blueprint/tabula rasa.md",
+                "file": "canvas/sic parvis magna.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for tabula rasa"
+              "title": "Backlinks for sic parvis magna"
             }
           },
           {
@@ -113,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "blueprint/tabula rasa.md",
+                "file": "canvas/sic parvis magna.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from tabula rasa"
+              "title": "Outgoing links from sic parvis magna"
             }
           },
           {
@@ -142,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "blueprint/tabula rasa.md",
+                "file": "canvas/sic parvis magna.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tabula rasa"
+              "title": "Outline of sic parvis magna"
             }
           }
         ]
@@ -170,11 +183,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a78ae6324edd7b90",
+  "active": "ecf60d59a700208a",
   "lastOpenFiles": [
+    "applied/Untitled.md",
+    "canvas/sic parvis magna.md",
+    "canvas",
+    "Excalidraw/Drawing 2025-09-07 21.38.27.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-07 21.36.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-07 21.36.53.excalidraw.md",
     "basin/Scientific Notation.md",
-    "basin/Untitled.md",
+    "Excalidraw",
     "blueprint/tabula rasa.md",
+    "applied",
+    "traceback/Physics.md",
+    "traceback/Number-Expression.md",
+    "basin/base ten.md",
     "traceback",
     "Welcome.md",
     "blueprint",

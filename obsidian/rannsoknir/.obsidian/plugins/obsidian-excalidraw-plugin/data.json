@@ -1,11 +1,11 @@
 {
   "disableDoubleClickTextEditing": false,
-  "folder": "Excalidraw",
+  "folder": "canvas",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
-  "templateFilePath": "Excalidraw/Template.excalidraw",
-  "scriptFolderPath": "Excalidraw/Scripts",
+  "templateFilePath": "canvas/template.excalidraw",
+  "scriptFolderPath": "canvas/scripts",
   "fontAssetsPath": "Excalidraw/CJK Fonts",
   "loadChineseFonts": false,
   "loadJapaneseFonts": false,
@@ -798,7 +798,7 @@
       "key": "G"
     }
   ],
-  "showSplashscreen": true,
+  "showSplashscreen": false,
   "pdfSettings": {
     "pageSize": "A4",
     "pageOrientation": "portrait",

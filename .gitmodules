@@ -1,0 +1,3 @@
+[submodule "obsidian/rannsoknir"]
+	path = obsidian/rannsoknir
+	url = git@github.com:lcs-hnd/rannsoknir.git
